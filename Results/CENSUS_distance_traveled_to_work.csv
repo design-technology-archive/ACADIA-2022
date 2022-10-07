@@ -1,0 +1,208 @@
+"","GEOGRAPHY_CODE","CELL_NAME","CELL_CODE","CELL_TYPE","MEASURES_NAME","OBS_VALUE"
+"1","E01004307","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",1367
+"2","E01004307","Less than 2km","QS702EW0002","Distance travelled to work","Value",545
+"3","E01004307","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",351
+"4","E01004307","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",134
+"5","E01004307","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",46
+"6","E01004307","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",6
+"7","E01004307","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",6
+"8","E01004307","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",14
+"9","E01004307","60km and over","QS702EW0009","Distance travelled to work","Value",29
+"10","E01004307","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",133
+"11","E01004307","Other","QS702EW0011","Distance travelled to work","Value",103
+"12","E01004307","Total distance (km)","QS702EW0012","Distance travelled to work","Value",10179.4
+"13","E01004307","Average distance (km)","QS702EW0013","Distance travelled to work","Value",9
+"14","E01004307","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"15","E01004307","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"16","E01004307","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"17","E01004307","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"18","E01004307","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"19","E01004307","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"20","E01004307","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"21","E01004307","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"22","E01004307","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"23","E01004307","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"24","E01004307","Other","QS702EW0011","Distance travelled to work","Value",0
+"25","E01004307","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"26","E01004307","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA
+"27","E01000001","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",926
+"28","E01000001","Less than 2km","QS702EW0002","Distance travelled to work","Value",452
+"29","E01000001","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",152
+"30","E01000001","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",83
+"31","E01000001","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",23
+"32","E01000001","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",3
+"33","E01000001","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",7
+"34","E01000001","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",3
+"35","E01000001","60km and over","QS702EW0009","Distance travelled to work","Value",10
+"36","E01000001","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",145
+"37","E01000001","Other","QS702EW0011","Distance travelled to work","Value",48
+"38","E01000001","Total distance (km)","QS702EW0012","Distance travelled to work","Value",4427.8
+"39","E01000001","Average distance (km)","QS702EW0013","Distance travelled to work","Value",6
+"40","E01000001","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"41","E01000001","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"42","E01000001","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"43","E01000001","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"44","E01000001","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"45","E01000001","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"46","E01000001","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"47","E01000001","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"48","E01000001","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"49","E01000001","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"50","E01000001","Other","QS702EW0011","Distance travelled to work","Value",0
+"51","E01000001","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"52","E01000001","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA
+"53","E01033490","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",720
+"54","E01033490","Less than 2km","QS702EW0002","Distance travelled to work","Value",348
+"55","E01033490","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",134
+"56","E01033490","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",67
+"57","E01033490","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",35
+"58","E01033490","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",4
+"59","E01033490","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",5
+"60","E01033490","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",7
+"61","E01033490","60km and over","QS702EW0009","Distance travelled to work","Value",6
+"62","E01033490","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",69
+"63","E01033490","Other","QS702EW0011","Distance travelled to work","Value",45
+"64","E01033490","Total distance (km)","QS702EW0012","Distance travelled to work","Value",3357.8
+"65","E01033490","Average distance (km)","QS702EW0013","Distance travelled to work","Value",5.5
+"66","E01033490","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"67","E01033490","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"68","E01033490","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"69","E01033490","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"70","E01033490","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"71","E01033490","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"72","E01033490","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"73","E01033490","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"74","E01033490","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"75","E01033490","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"76","E01033490","Other","QS702EW0011","Distance travelled to work","Value",0
+"77","E01033490","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"78","E01033490","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA
+"79","E01000002","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",910
+"80","E01000002","Less than 2km","QS702EW0002","Distance travelled to work","Value",392
+"81","E01000002","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",187
+"82","E01000002","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",78
+"83","E01000002","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",21
+"84","E01000002","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",6
+"85","E01000002","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",3
+"86","E01000002","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",2
+"87","E01000002","60km and over","QS702EW0009","Distance travelled to work","Value",15
+"88","E01000002","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",149
+"89","E01000002","Other","QS702EW0011","Distance travelled to work","Value",57
+"90","E01000002","Total distance (km)","QS702EW0012","Distance travelled to work","Value",3778.5
+"91","E01000002","Average distance (km)","QS702EW0013","Distance travelled to work","Value",5.4
+"92","E01000002","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"93","E01000002","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"94","E01000002","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"95","E01000002","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"96","E01000002","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"97","E01000002","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"98","E01000002","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"99","E01000002","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"100","E01000002","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"101","E01000002","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"102","E01000002","Other","QS702EW0011","Distance travelled to work","Value",0
+"103","E01000002","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"104","E01000002","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA
+"105","E01000003","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",764
+"106","E01000003","Less than 2km","QS702EW0002","Distance travelled to work","Value",349
+"107","E01000003","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",175
+"108","E01000003","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",57
+"109","E01000003","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",25
+"110","E01000003","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",5
+"111","E01000003","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",1
+"112","E01000003","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"113","E01000003","60km and over","QS702EW0009","Distance travelled to work","Value",17
+"114","E01000003","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",79
+"115","E01000003","Other","QS702EW0011","Distance travelled to work","Value",56
+"116","E01000003","Total distance (km)","QS702EW0012","Distance travelled to work","Value",4536.7
+"117","E01000003","Average distance (km)","QS702EW0013","Distance travelled to work","Value",7.2
+"118","E01000003","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"119","E01000003","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"120","E01000003","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"121","E01000003","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"122","E01000003","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"123","E01000003","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"124","E01000003","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"125","E01000003","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"126","E01000003","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"127","E01000003","Other","QS702EW0011","Distance travelled to work","Value",0
+"128","E01000003","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"129","E01000003","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA
+"130","E01032739","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",819
+"131","E01032739","Less than 2km","QS702EW0002","Distance travelled to work","Value",424
+"132","E01032739","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",102
+"133","E01032739","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",56
+"134","E01032739","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",15
+"135","E01032739","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",8
+"136","E01032739","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",4
+"137","E01032739","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",2
+"138","E01032739","60km and over","QS702EW0009","Distance travelled to work","Value",17
+"139","E01032739","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",147
+"140","E01032739","Other","QS702EW0011","Distance travelled to work","Value",44
+"141","E01032739","Total distance (km)","QS702EW0012","Distance travelled to work","Value",5721.3
+"142","E01032739","Average distance (km)","QS702EW0013","Distance travelled to work","Value",9.1
+"143","E01032739","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"144","E01032739","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"145","E01032739","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"146","E01032739","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"147","E01032739","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"148","E01032739","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"149","E01032739","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"150","E01032739","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"151","E01032739","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"152","E01032739","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"153","E01032739","Other","QS702EW0011","Distance travelled to work","Value",0
+"154","E01032739","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"155","E01032739","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA
+"156","E01003934","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",783
+"157","E01003934","Less than 2km","QS702EW0002","Distance travelled to work","Value",301
+"158","E01003934","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",180
+"159","E01003934","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",93
+"160","E01003934","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",26
+"161","E01003934","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",9
+"162","E01003934","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",4
+"163","E01003934","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",8
+"164","E01003934","60km and over","QS702EW0009","Distance travelled to work","Value",16
+"165","E01003934","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",86
+"166","E01003934","Other","QS702EW0011","Distance travelled to work","Value",60
+"167","E01003934","Total distance (km)","QS702EW0012","Distance travelled to work","Value",5945.9
+"168","E01003934","Average distance (km)","QS702EW0013","Distance travelled to work","Value",9.3
+"169","E01003934","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"170","E01003934","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"171","E01003934","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"172","E01003934","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"173","E01003934","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"174","E01003934","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"175","E01003934","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"176","E01003934","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"177","E01003934","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"178","E01003934","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"179","E01003934","Other","QS702EW0011","Distance travelled to work","Value",0
+"180","E01003934","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"181","E01003934","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA
+"182","E01003935","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",579
+"183","E01003935","Less than 2km","QS702EW0002","Distance travelled to work","Value",208
+"184","E01003935","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",130
+"185","E01003935","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",88
+"186","E01003935","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",24
+"187","E01003935","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",9
+"188","E01003935","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",3
+"189","E01003935","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",5
+"190","E01003935","60km and over","QS702EW0009","Distance travelled to work","Value",8
+"191","E01003935","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",52
+"192","E01003935","Other","QS702EW0011","Distance travelled to work","Value",52
+"193","E01003935","Total distance (km)","QS702EW0012","Distance travelled to work","Value",3548.9
+"194","E01003935","Average distance (km)","QS702EW0013","Distance travelled to work","Value",7.5
+"195","E01003935","All categories: Distance travelled to work","QS702EW0001","Distance travelled to work","Value",0
+"196","E01003935","Less than 2km","QS702EW0002","Distance travelled to work","Value",0
+"197","E01003935","2km to less than 5km","QS702EW0003","Distance travelled to work","Value",0
+"198","E01003935","5km to less than 10km","QS702EW0004","Distance travelled to work","Value",0
+"199","E01003935","10km to less than 20km","QS702EW0005","Distance travelled to work","Value",0
+"200","E01003935","20km to less than 30km","QS702EW0006","Distance travelled to work","Value",0
+"201","E01003935","30km to less than 40km","QS702EW0007","Distance travelled to work","Value",0
+"202","E01003935","40km to less than 60km","QS702EW0008","Distance travelled to work","Value",0
+"203","E01003935","60km and over","QS702EW0009","Distance travelled to work","Value",0
+"204","E01003935","Work mainly at or from home","QS702EW0010","Distance travelled to work","Value",0
+"205","E01003935","Other","QS702EW0011","Distance travelled to work","Value",0
+"206","E01003935","Total distance (km)","QS702EW0012","Distance travelled to work","Value",0
+"207","E01003935","Average distance (km)","QS702EW0013","Distance travelled to work","Value",NA

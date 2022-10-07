@@ -1,0 +1,110 @@
+"","GEOGRAPHY_CODE","CELL_NAME","CELL_CODE","CELL_TYPE","MEASURES_NAME","OBS_VALUE"
+"1","E01004307","All categories: Residence type","QS101EW0001","Residence Type","Value",2186
+"2","E01004307","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"3","E01004307","Lives in a household","QS101EW0002","Residence Type","Value",1857
+"4","E01004307","Lives in a household","QS101EW0002","Residence Type","Percent",84.9
+"5","E01004307","Lives in a communal establishment","QS101EW0003","Residence Type","Value",329
+"6","E01004307","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",15.1
+"7","E01004307","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"8","E01004307","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"9","E01004307","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"10","E01004307","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"11","E01004307","Lives in a household","QS101EW0002","Residence Type","Value",0
+"12","E01004307","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"13","E01004307","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"14","E01004307","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
+"15","E01000001","All categories: Residence type","QS101EW0001","Residence Type","Value",1465
+"16","E01000001","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"17","E01000001","Lives in a household","QS101EW0002","Residence Type","Value",1465
+"18","E01000001","Lives in a household","QS101EW0002","Residence Type","Percent",100
+"19","E01000001","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"20","E01000001","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",0
+"21","E01000001","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"22","E01000001","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"23","E01000001","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"24","E01000001","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"25","E01000001","Lives in a household","QS101EW0002","Residence Type","Value",0
+"26","E01000001","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"27","E01000001","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
+"28","E01033490","All categories: Residence type","QS101EW0001","Residence Type","Value",1693
+"29","E01033490","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"30","E01033490","Lives in a household","QS101EW0002","Residence Type","Value",1232
+"31","E01033490","Lives in a household","QS101EW0002","Residence Type","Percent",72.8
+"32","E01033490","Lives in a communal establishment","QS101EW0003","Residence Type","Value",461
+"33","E01033490","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",27.2
+"34","E01033490","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"35","E01033490","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"36","E01033490","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"37","E01033490","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"38","E01033490","Lives in a household","QS101EW0002","Residence Type","Value",0
+"39","E01033490","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"40","E01033490","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"41","E01033490","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
+"42","E01000002","All categories: Residence type","QS101EW0001","Residence Type","Value",1436
+"43","E01000002","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"44","E01000002","Lives in a household","QS101EW0002","Residence Type","Value",1436
+"45","E01000002","Lives in a household","QS101EW0002","Residence Type","Percent",100
+"46","E01000002","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"47","E01000002","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",0
+"48","E01000002","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"49","E01000002","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"50","E01000002","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"51","E01000002","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"52","E01000002","Lives in a household","QS101EW0002","Residence Type","Value",0
+"53","E01000002","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"54","E01000002","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
+"55","E01000003","All categories: Residence type","QS101EW0001","Residence Type","Value",1346
+"56","E01000003","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"57","E01000003","Lives in a household","QS101EW0002","Residence Type","Value",1250
+"58","E01000003","Lives in a household","QS101EW0002","Residence Type","Percent",92.9
+"59","E01000003","Lives in a communal establishment","QS101EW0003","Residence Type","Value",96
+"60","E01000003","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",7.1
+"61","E01000003","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"62","E01000003","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"63","E01000003","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"64","E01000003","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"65","E01000003","Lives in a household","QS101EW0002","Residence Type","Value",0
+"66","E01000003","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"67","E01000003","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"68","E01000003","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
+"69","E01032739","All categories: Residence type","QS101EW0001","Residence Type","Value",1044
+"70","E01032739","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"71","E01032739","Lives in a household","QS101EW0002","Residence Type","Value",1002
+"72","E01032739","Lives in a household","QS101EW0002","Residence Type","Percent",96
+"73","E01032739","Lives in a communal establishment","QS101EW0003","Residence Type","Value",42
+"74","E01032739","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",4
+"75","E01032739","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"76","E01032739","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"77","E01032739","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"78","E01032739","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"79","E01032739","Lives in a household","QS101EW0002","Residence Type","Value",0
+"80","E01032739","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"81","E01032739","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"82","E01032739","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
+"83","E01003934","All categories: Residence type","QS101EW0001","Residence Type","Value",1422
+"84","E01003934","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"85","E01003934","Lives in a household","QS101EW0002","Residence Type","Value",1422
+"86","E01003934","Lives in a household","QS101EW0002","Residence Type","Percent",100
+"87","E01003934","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"88","E01003934","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",0
+"89","E01003934","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"90","E01003934","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"91","E01003934","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"92","E01003934","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"93","E01003934","Lives in a household","QS101EW0002","Residence Type","Value",0
+"94","E01003934","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"95","E01003934","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
+"96","E01003935","All categories: Residence type","QS101EW0001","Residence Type","Value",1342
+"97","E01003935","All categories: Residence type","QS101EW0001","Residence Type","Percent",100
+"98","E01003935","Lives in a household","QS101EW0002","Residence Type","Value",946
+"99","E01003935","Lives in a household","QS101EW0002","Residence Type","Percent",70.5
+"100","E01003935","Lives in a communal establishment","QS101EW0003","Residence Type","Value",396
+"101","E01003935","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",29.5
+"102","E01003935","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Value",0
+"103","E01003935","Communal establishments with persons sleeping rough identified","QS101EW0004","Residence Type","Percent",NA
+"104","E01003935","All categories: Residence type","QS101EW0001","Residence Type","Value",0
+"105","E01003935","All categories: Residence type","QS101EW0001","Residence Type","Percent",NA
+"106","E01003935","Lives in a household","QS101EW0002","Residence Type","Value",0
+"107","E01003935","Lives in a household","QS101EW0002","Residence Type","Percent",NA
+"108","E01003935","Lives in a communal establishment","QS101EW0003","Residence Type","Value",0
+"109","E01003935","Lives in a communal establishment","QS101EW0003","Residence Type","Percent",NA
